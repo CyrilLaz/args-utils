@@ -4,8 +4,8 @@
 
 ## Инструкция по установке и запуску.
 - `npm install`  
-`yarn add`  
-`pnpm add`
+`yarn install`  
+`pnpm install`
 
 - `npm link`  
 `yarn link`  
